@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiago Michaelsen!</h1>
 
-<h3 align="center">Multidisciplinary professional with a background in Civil Engineering, transitioning to Software Engineering. Experience in Data Science and software development. Ability to solve problems and learn quickly. I'm looking for opportunities to apply my knowledge to challenges in the technology field.</h3>
+<h3 align="center">Results-driven Software Engineer with expertise in Python and data science. Proven ability to develop innovative solutions through AI and Machine Learning models. Passionate about leveraging technology to solve complex problems.</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning **Scikit-Learn, TensorFlow and Keras**<br>
